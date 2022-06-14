@@ -1,1 +1,6 @@
-# ml-end-to-end
+create environmnet
+'''
+create conda venv -p
+
+'''
+activate venv
