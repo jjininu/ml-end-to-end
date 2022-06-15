@@ -17,4 +17,4 @@ git also has git diff comand
 to deploy on heroku
 
 
->>>>>>> 6cd34f4db126eb0709d97f493b560302ac4c4373
+
