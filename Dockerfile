@@ -1,6 +1,6 @@
-FROM python:3.7
+FROM python:3.8.5
 COPY . /app
 WORKDIR /app
-RUN PIP insall -r requirements.txt
+RUN pip insall -r requirements.txt
 EXPOSE $PORT
-CMD gunicorn --workers=4 --bind 0.0.0.0:$port app:app
+CMD gunicorn --workers=4 --bind 0.0.0.0:$PORT app:app
