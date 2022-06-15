@@ -1,6 +1,5 @@
 creating conda env
-"""
-<<<<<<< HEAD
+
 conda create -p venv pyhton ==3.7 -y
 """
 =======
