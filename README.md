@@ -10,7 +10,7 @@ to add the cchange to git
 
 git add .
 """"
-git commit -mgit 
+git commit -m
 """
 git push originmain
 """
