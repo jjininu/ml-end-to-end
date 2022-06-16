@@ -5,8 +5,7 @@ app=Flask(__name__)
 
 @app.route("/",methods=['GET','POST'])
 def index():
-    return render_template('home.html')
-
+    return "this new"
 
 if __name__=="__main__":
     app.run(debug=True)
