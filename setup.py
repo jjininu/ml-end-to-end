@@ -4,7 +4,7 @@ from typing import List
 
 #Declaring variables for setup functions
 PROJECT_NAME="housing-predictor"
-VERSION="0.0.1"
+VERSION="0.0.2"
 AUTHOR="Junior Eshetu"
 DESRCIPTION="This is a first FSDS Nov batch Machine Learning Project"
 
